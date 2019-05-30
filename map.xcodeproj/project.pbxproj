@@ -8,6 +8,21 @@
 
 /* Begin PBXBuildFile section */
 		2D0E48C56819C75A962CE05B /* Pods_map.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 12AB767774A4F5352AA25825 /* Pods_map.framework */; };
+		5D158C04228A55E900650133 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D158C02228A55E900650133 /* DetailViewController.swift */; };
+		5D158C05228A55E900650133 /* DetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5D158C03228A55E900650133 /* DetailViewController.xib */; };
+		5D192669228BFDD10018CEE1 /* AnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D192668228BFDD10018CEE1 /* AnotationView.swift */; };
+		5D19266B228BFDF40018CEE1 /* AnotationView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5D19266A228BFDF40018CEE1 /* AnotationView.xib */; };
+		5D192671228C11050018CEE1 /* infomationView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5D192670228C11050018CEE1 /* infomationView.xib */; };
+		5D192673228C13690018CEE1 /* OpenTimeView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5D192672228C13690018CEE1 /* OpenTimeView.xib */; };
+		5D192675228C156A0018CEE1 /* infomationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D192674228C156A0018CEE1 /* infomationView.swift */; };
+		5D2756E32283480600B170AE /* bachkhoa.geojson in Resources */ = {isa = PBXBuildFile; fileRef = 5D2756E22283480600B170AE /* bachkhoa.geojson */; };
+		5D34C21C228814C700A1D405 /* CustomItemView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5D34C21B228814C700A1D405 /* CustomItemView.xib */; };
+		5D34C21F228814FD00A1D405 /* CustomUserLocationAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D34C21E228814FD00A1D405 /* CustomUserLocationAnnotationView.swift */; };
+		5D34C2212288155800A1D405 /* CustomItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D34C2202288155800A1D405 /* CustomItemView.swift */; };
+		5D34C223228815C500A1D405 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D34C222228815C500A1D405 /* Color.swift */; };
+		5D4522772281E66A00A9F2BC /* AdvancedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4522762281E66A00A9F2BC /* AdvancedViewController.swift */; };
+		5D8AFDB22289BBDA00F4EFDC /* bach_khoa_ha_noi_buildings.geojson in Resources */ = {isa = PBXBuildFile; fileRef = 5D8AFDB12289BBDA00F4EFDC /* bach_khoa_ha_noi_buildings.geojson */; };
+		8643D1C2227C021600D4417B /* InfomationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8643D1C1227C021600D4417B /* InfomationViewController.swift */; };
 		867068832236CBE10006F823 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867068822236CBE10006F823 /* AppDelegate.swift */; };
 		867068852236CBE10006F823 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 867068842236CBE10006F823 /* ViewController.swift */; };
 		867068882236CBE10006F823 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 867068862236CBE10006F823 /* Main.storyboard */; };
@@ -40,7 +55,22 @@
 		12AB767774A4F5352AA25825 /* Pods_map.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_map.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DC6B8960C94AF5C399FA9E8 /* Pods-mapTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mapTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-mapTests/Pods-mapTests.release.xcconfig"; sourceTree = "<group>"; };
 		4FB6BFF0509340648335D959 /* Pods-mapUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mapUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-mapUITests/Pods-mapUITests.release.xcconfig"; sourceTree = "<group>"; };
+		5D158C02228A55E900650133 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		5D158C03228A55E900650133 /* DetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DetailViewController.xib; sourceTree = "<group>"; };
+		5D192668228BFDD10018CEE1 /* AnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnotationView.swift; sourceTree = "<group>"; };
+		5D19266A228BFDF40018CEE1 /* AnotationView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AnotationView.xib; sourceTree = "<group>"; };
+		5D192670228C11050018CEE1 /* infomationView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = infomationView.xib; sourceTree = "<group>"; };
+		5D192672228C13690018CEE1 /* OpenTimeView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = OpenTimeView.xib; sourceTree = "<group>"; };
+		5D192674228C156A0018CEE1 /* infomationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = infomationView.swift; sourceTree = "<group>"; };
+		5D2756E22283480600B170AE /* bachkhoa.geojson */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = bachkhoa.geojson; sourceTree = "<group>"; };
+		5D34C21B228814C700A1D405 /* CustomItemView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomItemView.xib; sourceTree = "<group>"; };
+		5D34C21E228814FD00A1D405 /* CustomUserLocationAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomUserLocationAnnotationView.swift; sourceTree = "<group>"; };
+		5D34C2202288155800A1D405 /* CustomItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomItemView.swift; sourceTree = "<group>"; };
+		5D34C222228815C500A1D405 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		5D4522762281E66A00A9F2BC /* AdvancedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedViewController.swift; sourceTree = "<group>"; };
+		5D8AFDB12289BBDA00F4EFDC /* bach_khoa_ha_noi_buildings.geojson */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = bach_khoa_ha_noi_buildings.geojson; sourceTree = "<group>"; };
 		8127D88F9CF58AFFCFC9B14F /* Pods-mapUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mapUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-mapUITests/Pods-mapUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		8643D1C1227C021600D4417B /* InfomationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfomationViewController.swift; sourceTree = "<group>"; };
 		8670687F2236CBE10006F823 /* map.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = map.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		867068822236CBE10006F823 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		867068842236CBE10006F823 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -89,6 +119,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5D34C21D228814EC00A1D405 /* annatation */ = {
+			isa = PBXGroup;
+			children = (
+				5D34C21E228814FD00A1D405 /* CustomUserLocationAnnotationView.swift */,
+				5D34C2202288155800A1D405 /* CustomItemView.swift */,
+				5D34C222228815C500A1D405 /* Color.swift */,
+				5D192668228BFDD10018CEE1 /* AnotationView.swift */,
+				5D19266A228BFDF40018CEE1 /* AnotationView.xib */,
+			);
+			path = annatation;
+			sourceTree = "<group>";
+		};
 		66CB0CF7AB507B2EADC7C4BC /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -127,12 +169,23 @@
 		867068812236CBE10006F823 /* map */ = {
 			isa = PBXGroup;
 			children = (
+				5D34C21D228814EC00A1D405 /* annatation */,
+				5D34C21B228814C700A1D405 /* CustomItemView.xib */,
+				5D8AFDB12289BBDA00F4EFDC /* bach_khoa_ha_noi_buildings.geojson */,
+				5D2756E22283480600B170AE /* bachkhoa.geojson */,
 				867068822236CBE10006F823 /* AppDelegate.swift */,
 				867068842236CBE10006F823 /* ViewController.swift */,
 				867068862236CBE10006F823 /* Main.storyboard */,
 				867068892236CBE30006F823 /* Assets.xcassets */,
 				8670688B2236CBE30006F823 /* LaunchScreen.storyboard */,
 				8670688E2236CBE30006F823 /* Info.plist */,
+				8643D1C1227C021600D4417B /* InfomationViewController.swift */,
+				5D4522762281E66A00A9F2BC /* AdvancedViewController.swift */,
+				5D158C02228A55E900650133 /* DetailViewController.swift */,
+				5D158C03228A55E900650133 /* DetailViewController.xib */,
+				5D192670228C11050018CEE1 /* infomationView.xib */,
+				5D192672228C13690018CEE1 /* OpenTimeView.xib */,
+				5D192674228C156A0018CEE1 /* infomationView.swift */,
 			);
 			path = map;
 			sourceTree = "<group>";
@@ -237,6 +290,11 @@
 				TargetAttributes = {
 					8670687E2236CBE10006F823 = {
 						CreatedOnToolsVersion = 10.1;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 					867068922236CBE30006F823 = {
 						CreatedOnToolsVersion = 10.1;
@@ -273,6 +331,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D34C21C228814C700A1D405 /* CustomItemView.xib in Resources */,
+				5D2756E32283480600B170AE /* bachkhoa.geojson in Resources */,
+				5D192671228C11050018CEE1 /* infomationView.xib in Resources */,
+				5D192673228C13690018CEE1 /* OpenTimeView.xib in Resources */,
+				5D19266B228BFDF40018CEE1 /* AnotationView.xib in Resources */,
+				5D158C05228A55E900650133 /* DetailViewController.xib in Resources */,
+				5D8AFDB22289BBDA00F4EFDC /* bach_khoa_ha_noi_buildings.geojson in Resources */,
 				8670688D2236CBE30006F823 /* LaunchScreen.storyboard in Resources */,
 				8670688A2236CBE30006F823 /* Assets.xcassets in Resources */,
 				867068882236CBE10006F823 /* Main.storyboard in Resources */,
@@ -358,16 +423,32 @@
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-map/Pods-map-frameworks.sh",
 				"${PODS_ROOT}/Mapbox-iOS-SDK/dynamic/Mapbox.framework",
-				"${PODS_ROOT}/Mapbox-iOS-SDK/dynamic/Mapbox.framework.dSYM",
+				"${BUILT_PRODUCTS_DIR}/MapboxCoreNavigation/MapboxCoreNavigation.framework",
+				"${BUILT_PRODUCTS_DIR}/MapboxDirections.swift/MapboxDirections.framework",
+				"${BUILT_PRODUCTS_DIR}/MapboxMobileEvents/MapboxMobileEvents.framework",
+				"${BUILT_PRODUCTS_DIR}/MapboxNavigation/MapboxNavigation.framework",
+				"${PODS_ROOT}/MapboxNavigationNative/MapboxNavigationNative.framework",
+				"${PODS_ROOT}/MapboxNavigationNative/MapboxNavigationNative.framework.dSYM",
+				"${BUILT_PRODUCTS_DIR}/MapboxSpeech/MapboxSpeech.framework",
 				"${BUILT_PRODUCTS_DIR}/MapboxStatic.swift/MapboxStatic.framework",
 				"${BUILT_PRODUCTS_DIR}/Polyline/Polyline.framework",
+				"${BUILT_PRODUCTS_DIR}/Solar/Solar.framework",
+				"${BUILT_PRODUCTS_DIR}/Turf/Turf.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Mapbox.framework",
-				"${DWARF_DSYM_FOLDER_PATH}/Mapbox.framework.dSYM",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapboxCoreNavigation.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapboxDirections.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapboxMobileEvents.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapboxNavigation.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapboxNavigationNative.framework",
+				"${DWARF_DSYM_FOLDER_PATH}/MapboxNavigationNative.framework.dSYM",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapboxSpeech.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapboxStatic.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Polyline.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Solar.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Turf.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -381,8 +462,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D34C2212288155800A1D405 /* CustomItemView.swift in Sources */,
+				5D4522772281E66A00A9F2BC /* AdvancedViewController.swift in Sources */,
+				5D192675228C156A0018CEE1 /* infomationView.swift in Sources */,
+				5D34C223228815C500A1D405 /* Color.swift in Sources */,
+				8643D1C2227C021600D4417B /* InfomationViewController.swift in Sources */,
+				5D192669228BFDD10018CEE1 /* AnotationView.swift in Sources */,
 				867068852236CBE10006F823 /* ViewController.swift in Sources */,
 				867068832236CBE10006F823 /* AppDelegate.swift in Sources */,
+				5D34C21F228814FD00A1D405 /* CustomUserLocationAnnotationView.swift in Sources */,
+				5D158C04228A55E900650133 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -559,13 +648,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = R6KK9KWR33;
+				DEVELOPMENT_TEAM = LAW2SW785N;
 				INFOPLIST_FILE = map/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.tuan.map;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.tuan.map.bk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -578,13 +668,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = R6KK9KWR33;
+				DEVELOPMENT_TEAM = LAW2SW785N;
 				INFOPLIST_FILE = map/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.tuan.map;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.tuan.map.bk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";

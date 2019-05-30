@@ -1,0 +1,545 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Phòng Phát triển dự án đầu tư",
+        "hours": "6:45am - 5pm",
+        "image": "https://scontent.fhan3-2.fna.fbcdn.net/v/t1.15752-9/60279846_424382711448482_5821595468399902720_n.png?_nc_cat=103&_nc_oc=AQm2vzmCZkgVKyM3G2pdojgElF3N4R54bvqyUnEg8dE4IcLmWoL9yy4ifOmQbn1h11T_4zUG07qvyGKkXYDmrBz4&_nc_ht=scontent.fhan3-2.fna&oh=f8ecce7fa4c214b1f7cbe670f2fd4d3e&oe=5D67A756",
+        "name": "C3-ĐHBKHN",
+        "phone": "024 3868 3091"
+      },
+      "geometry": {
+        "coordinates": [
+          105.844003,
+          21.006617
+        ],
+        "type": "Point"
+      },
+      "id": "0228846e58be7ecadb85bce9eb377bc3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "C9-ĐHBKHN",
+        "phone": "0973792219",
+        "description": " Viện Kinh tế và Quản lý và Viện Điện tử - Viễn thông",
+        "hours": "6:45am - 5pm",
+        "image": "https://scontent.fhan3-1.fna.fbcdn.net/v/t1.15752-9/59998657_1036352600086465_2068729332364214272_n.png?_nc_cat=110&_nc_oc=AQnFusYtVHxcIvu4-QOmC-iir6IXGBA6ycxSAZxqOSyxZMgfj0NacroGgkb189RUwtMb-DkUalwA7QSkaH3EoGZz&_nc_ht=scontent.fhan3-1.fna&oh=225868fe819b34fe3d82bffa57e5e4af&oe=5D675975"
+      },
+      "geometry": {
+        "coordinates": [
+          105.842346,
+          21.005808
+        ],
+        "type": "Point"
+      },
+      "id": "0b1ef71fe138f5675af100a5d307d15a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Viện Dệt may - Da giầy và Thời trang",
+        "hours": "6:45am - 5pm",
+        "image": "https://scontent.fhan4-1.fna.fbcdn.net/v/t1.15752-9/60336096_2665009556907635_9059849476411228160_n.png?_nc_cat=105&_nc_oc=AQk9yQQm3WgcD2AI6P-Qk70ytZ_pExGCH45GWvAw_yTm_MB3_FKFNRoPfUijKoRfwCmxNo-Fz_LH6748w29ZTdMe&_nc_ht=scontent.fhan4-1.fna&oh=55105de7e9b7bac32465f2c7d13ea20f&oe=5D6938CC",
+        "name": "C5-ĐHBKHN",
+        "phone": " 024 38 692 401"
+      },
+      "geometry": {
+        "coordinates": [
+          105.844061,
+          21.005788
+        ],
+        "type": "Point"
+      },
+      "id": "0d30cef9e956f4e4124263f5317c0dfa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "tòa nhà D7",
+        "hours": "6:45am - 5pm",
+        "image": "https://scontent.fhan2-4.fna.fbcdn.net/v/t1.15752-9/60292619_438934133332379_4002453510309281792_n.png?_nc_cat=100&_nc_oc=AQl1W7nawT6KO-CruZksZGyEXCgpazBaueSj0LNxaBi4uIXg8MabeYCPxBBPLioyU4A&_nc_ht=scontent.fhan2-4.fna&oh=86f4b40a6a2cf93bbba38da904f4fa43&oe=5D5BF4A0",
+        "name": "D7-ĐHBKHN",
+        "phone": "(04) 3868.3407"
+      },
+      "geometry": {
+        "coordinates": [
+          105.844982,
+          21.004092
+        ],
+        "type": "Point"
+      },
+      "id": "1cd0c202cdd9c1431b99389df55457a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "trung tâm y tế đại học Bách Khoa Hà Nội",
+        "hours": "6:45am - 5pm",
+        "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjc-aGvxpfiAhU3w4sBHUKwAJkQjRx6BAgBEAU&url=https%3A%2F%2Fwww.hust.edu.vn%2Fho-tro-sinh-vien&psig=AOvVaw2_TXtt96PfInU1J8wbGmqm&ust=1557804027617424",
+        "name": "B1-ĐHBKHN",
+        "phone": "024 3868 30 87"
+      },
+      "geometry": {
+        "coordinates": [
+          105.84685,
+          21.004475
+        ],
+        "type": "Point"
+      },
+      "id": "27aa5c49e40e434c84c45438e206d46d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "khu kí túc xá",
+        "hours": "6:00am - 11pm",
+        "image": "",
+        "name": "B5-ĐHBKHN",
+        "phone": "024 38 696 166"
+      },
+      "geometry": {
+        "coordinates": [
+          105.84694,
+          21.006415
+        ],
+        "type": "Point"
+      },
+      "id": "34b3afb3a7c275590e1efa78385e3784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "khu kí túc xá",
+        "hours": "6:00am - 11pm",
+        "image": "",
+        "name": "B6-ĐHBKHN",
+        "phone": "024 38 696 166"
+      },
+      "geometry": {
+        "coordinates": [
+          105.846159,
+          21.00645
+        ],
+        "type": "Point"
+      },
+      "id": "34ef8fb16ed5fde7d7077f0cdc2f435f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "tòa nhà T ĐHBKHN",
+        "hours": "6:45am - 5pm",
+        "image": "",
+        "name": "T-ĐHBKHN",
+        "phone": "090 626 40 61"
+      },
+      "geometry": {
+        "coordinates": [
+          105.848871,
+          21.003941
+        ],
+        "type": "Point"
+      },
+      "id": "397b34d88abc3c8d061c6fad087e7dc7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "tòa nhà D6",
+        "hours": "6:45am - 5pm",
+        "image": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/s2048x2048/60125084_435455620565949_273068755049775104_n.jpg?_nc_cat=111&_nc_oc=AQl7kxITA4gAxJ7mgM3pPE-pyc-RDCC8sRd1cCNitFM2od26Z_vbc2XM_9MX7h3gSH0&_nc_ht=scontent.fsgn2-4.fna&oh=bbfad7d66ea49a3fd1d0d034c23c36ae&oe=5D7650FA",
+        "name": "D6-ĐHBKHN",
+        "phone": "024 3869 2243"
+      },
+      "geometry": {
+        "coordinates": [
+          105.842656,
+          21.00431
+        ],
+        "type": "Point"
+      },
+      "id": "4f944318162ba3a3a0bef8d64dd73152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "toà nhà hội thảo",
+        "hours": "6:45am - 5pm",
+        "image": "https://scontent.fhan3-3.fna.fbcdn.net/v/t1.15752-9/60087501_1675297783317762_8515268844711837696_n.png?_nc_cat=100&_nc_oc=AQkzo4kyr4hmobWXx_Mz6UNZCQ3KnfUwmNKrmnv-TSGjHSADw361QD_MvNDsDanImIV_xxs9SjOTy8Vwt8HkoEOu&_nc_ht=scontent.fhan3-3.fna&oh=d333827ae5b97399b4ee0dfbc630efd2&oe=5D711636",
+        "name": "C2-ĐHBKHN",
+        "phone": "024 38690071"
+      },
+      "geometry": {
+        "coordinates": [
+          105.842381,
+          21.006402
+        ],
+        "type": "Point"
+      },
+      "id": "5092605dabfc1bbea7455e034157b2e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "trung tâm y tế đại học Bách Khoa Hà Nội",
+        "hours": "6:00am - 11pm",
+        "image": "",
+        "name": "TT YT BK",
+        "phone": "024 38692400"
+      },
+      "geometry": {
+        "coordinates": [
+          105.847589,
+          21.005601
+        ],
+        "type": "Point"
+      },
+      "id": "515749045da8afac4c702aadaa17c4c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Thư viện Tạ Quang Bửu",
+        "hours": "6:45am - 8pm",
+        "image": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiq7b_3x5fiAhUIGKYKHeqtA3QQjRx6BAgBEAU&url=http%3A%2F%2Ftiin.vn%2Fchuyen-muc%2Fhoc%2Fden-bach-khoa-tham-thu-vien-ta-quang-buu-lon-bac-nhat-viet-nam.html&psig=AOvVaw1hiZ8e569HRdh7XSE2JHNM&ust=1557804445846500",
+        "name": "Thư Viện Tạ Quang Bửu",
+        "phone": "024 3869 2243"
+      },
+      "geometry": {
+        "coordinates": [
+          105.844162,
+          21.003834
+        ],
+        "type": "Point"
+      },
+      "id": "6b1484209433fcf444a5c77a53845f8a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "tòa nhà D4-Viện Ngoại ngữ",
+        "hours": "6:45am - 5pm",
+        "image": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.15752-9/s2048x2048/60137133_620058805072894_7269476102622412800_n.jpg?_nc_cat=107&_nc_oc=AQkg1OMlw9ACYiKZWdkmtsVExB8IXYt4o_fMNbbgN5E_LpOiI9NpEwbnwpszowtRTVI&_nc_ht=scontent.fhan2-3.fna&oh=0051c3d979064bee3bada693dbbd21b5&oe=5D769B7B",
+        "name": "D4-ĐHBKHN",
+        "phone": "024 3869 2201"
+      },
+      "geometry": {
+        "coordinates": [
+          105.842051,
+          21.003941
+        ],
+        "type": "Point"
+      },
+      "id": "7813abb51473a7977f4c929998a39c8a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "khu kí túc xá sinh viên nước ngoài",
+        "hours": "6:00am - 11pm",
+        "image": "",
+        "name": "B10-ĐHBKHN",
+        "phone": " 024 38 692 401"
+      },
+      "geometry": {
+        "coordinates": [
+          105.847517,
+          21.005271
+        ],
+        "type": "Point"
+      },
+      "id": "7a88ac788aeff585e959a8054623ecdb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "khu kí túc xá",
+        "hours": "6:00am - 11pm",
+        "image": "",
+        "name": "B7-ĐHBKHN",
+        "phone": "024 38 696 166"
+      },
+      "geometry": {
+        "coordinates": [
+          105.846178,
+          21.005957
+        ],
+        "type": "Point"
+      },
+      "id": "7d8d3ca572b9fa464916aa28957a6469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Viện Công nghệ Sinh học và Công nghệ Thực phẩm",
+        "hours": "6:45am - 5pm",
+        "image": "https://scontent.fhan4-1.fna.fbcdn.net/v/t1.15752-9/60072957_591597407915554_4749845298044469248_n.png?_nc_cat=105&_nc_oc=AQkBeUlGKoecTdjhyHOJJVDp6G7i46m4xNvTMRocQqL8mW2XQcSlhxvJvbZauQBx1Owe4m6x42ehKrLlTqXDVwOa&_nc_ht=scontent.fhan4-1.fna&oh=e30f722ec35682bcb19b77a5dc99dfa1&oe=5D74B368",
+        "name": "C4-ĐHBKHN",
+        "phone": "024 3868 2470"
+      },
+      "geometry": {
+        "coordinates": [
+          105.844049,
+          21.006203
+        ],
+        "type": "Point"
+      },
+      "id": "860e5525d969dbddd9ebf0b932beb140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "tòa nhà D5",
+        "hours": "6:45am - 5pm",
+        "image": "http://www.bkacad.edu.vn/pictures/gallery_img/gme1338258973.jpg",
+        "name": "D5-ĐHBKHN",
+        "phone": "(+84) 4 3869 2205"
+      },
+      "geometry": {
+        "coordinates": [
+          105.844948,
+          21.004351
+        ],
+        "type": "Point"
+      },
+      "id": "8d320bd036d7a8d19e50e656260f5f1f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "tòa nhà D3",
+        "hours": "6:45am - 5pm",
+        "image": "",
+        "name": "D3-ĐHBKHN",
+        "phone": "024 3869 2105"
+      },
+      "geometry": {
+        "coordinates": [
+          105.845063,
+          21.004747
+        ],
+        "type": "Point"
+      },
+      "id": "8f38113c1508f4fbe4271a9ecd3b3d6e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "khu kí túc xá",
+        "hours": "6:00am - 11pm",
+        "image": "",
+        "name": "B9-ĐHBKHN",
+        "phone": "024 38 696 166"
+      },
+      "geometry": {
+        "coordinates": [
+          105.846931,
+          21.006041
+        ],
+        "type": "Point"
+      },
+      "id": "93a93238bd5b1c86fd47f688cd6f6fd8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "tòa nhà D3-5",
+        "hours": "6:45am - 5pm",
+        "image": "",
+        "name": "D3-5-ĐHBKHN",
+        "phone": "024 3868.1432"
+      },
+      "geometry": {
+        "coordinates": [
+          105.84532,
+          21.004542
+        ],
+        "type": "Point"
+      },
+      "id": "9d4f7b81c73a66b20da5e545bc25c92c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Viện Nghiên cứu Công nghệ Không gian và dưới nước",
+        "hours": "6:45am - 5pm",
+        "image": "",
+        "name": "C8-ĐHBKHN",
+        "phone": "024 36231283"
+      },
+      "geometry": {
+        "coordinates": [
+          105.845131,
+          21.005353
+        ],
+        "type": "Point"
+      },
+      "id": "aa6362b01c77ebd32d511025129d02d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Viện Cơ khí Động lực",
+        "hours": "6:45am - 5pm",
+        "image": "",
+        "name": "C6-ĐHBKHN",
+        "phone": "024 3868 4944"
+      },
+      "geometry": {
+        "coordinates": [
+          105.845023,
+          21.006168
+        ],
+        "type": "Point"
+      },
+      "id": "b4c4b88383895ac31a3e184182787109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "tòa nhà D8",
+        "hours": "6:45am - 5pm",
+        "image": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.15752-9/s2048x2048/60137133_620058805072894_7269476102622412800_n.jpg?_nc_cat=107&_nc_oc=AQkg1OMlw9ACYiKZWdkmtsVExB8IXYt4o_fMNbbgN5E_LpOiI9NpEwbnwpszowtRTVI&_nc_ht=scontent.fhan2-3.fna&oh=0051c3d979064bee3bada693dbbd21b5&oe=5D769B7B",
+        "name": "D8-ĐHBKHN",
+        "phone": " 024 3868 2625"
+      },
+      "geometry": {
+        "coordinates": [
+          105.842642,
+          21.003959
+        ],
+        "type": "Point"
+      },
+      "id": "b80ccd80498cee1dcd5b689655479f20"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": " Viện Khoa học và Công nghệ nhiệt lạnh",
+        "hours": "6:45am - 5pm",
+        "image": "",
+        "name": "C7-ĐHBKHN",
+        "phone": " 024 3868 2625"
+      },
+      "geometry": {
+        "coordinates": [
+          105.845029,
+          21.005752
+        ],
+        "type": "Point"
+      },
+      "id": "c7e89f291c1bf7c99a018effb8a54deb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "",
+        "hours": "",
+        "image": "",
+        "name": "",
+        "phone": ""
+      },
+      "geometry": {
+        "coordinates": [
+          105.846729,
+          21.002348
+        ],
+        "type": "Point"
+      },
+      "id": "d9cff7646005d0967cb965253aab880f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "tòa nhà tại chức đại học Bách Khoa Hà Nội",
+        "hours": "6:45am - 5pm",
+        "image": "https://scontent.fhan2-1.fna.fbcdn.net/v/t1.15752-9/60419152_385681072027737_3435531635557138432_n.png?_nc_cat=102&_nc_oc=AQmt1IXKJxFYTxiFiyomrHQpsMxAiStI4STKOQ5wvf__0BbL6V1PX9NVC-iR32UJQMU&_nc_ht=scontent.fhan2-1.fna&oh=12ed2bb396998815cfc3c825e14b56d4&oe=5D6A17B5",
+        "name": "TC-ĐHBKHN",
+        "phone": " 024 38 692 401"
+      },
+      "geometry": {
+        "coordinates": [
+          105.846305,
+          21.002689
+        ],
+        "type": "Point"
+      },
+      "id": "db0a178961f89794382debd6feed1064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "khu kí túc ",
+        "hours": "6:00am - 11pm",
+        "image": "",
+        "name": "B13-ĐHBKHN",
+        "phone": " 024 38 692 401"
+      },
+      "geometry": {
+        "coordinates": [
+          105.847813,
+          21.006499
+        ],
+        "type": "Point"
+      },
+      "id": "e8c2019036b28c59ab8dd57ec87d1bf7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "tòa nhà kí túc xá",
+        "hours": "6:00am - 11pm",
+        "image": "",
+        "name": "B8-ĐHBKHN",
+        "phone": "024 38 696 166"
+      },
+      "geometry": {
+        "coordinates": [
+          105.846106,
+          21.005214
+        ],
+        "type": "Point"
+      },
+      "id": "f2ba80e20fc5cb3d539f2d689164b9cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Khoa Giáo dục Quốc phòng - An ninh",
+        "hours": "6:45am - 5pm",
+        "image": "",
+        "name": "C10-ĐHBKHN",
+        "phone": "024 3869 2031"
+      },
+      "geometry": {
+        "coordinates": [
+          105.843976,
+          21.005438
+        ],
+        "type": "Point"
+      },
+      "id": "f4a8c9d21dfc66e4ce1325907c1d9ca4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "http://photo.handhome.net/images/2018/03/13/R0720934.jpg",
+        "name": "Toa nha C1",
+        "hours": "6:45am - 5pm",
+        "phone": "02438682222",
+        "description": "Nơi đặt văn phòng các bộ môn, văn phòng hành chính, cán bộ."
+      },
+      "geometry": {
+        "coordinates": [
+          105.843178,
+          21.007038
+        ],
+        "type": "Point"
+      },
+      "id": "fca05a3e2e7277d11eaa9c53ff35969e"
+    }
+  ],
+  "type": "FeatureCollection"
+}

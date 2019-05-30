@@ -1,0 +1,545 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00703,
+                    105.84318
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "C1_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "C1_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=107",
+                "lines": [
+                    "Green"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00640,
+                    105.84238
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "C2_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "C2_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00661,
+                    105.84399
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "C3_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "C3_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00621,
+                    105.84404
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "C4_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "C4_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00581,
+                    105.84403
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "c5_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "c5_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00620,
+                    105.84498
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "c6_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "c6_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00580,
+                    105.84503
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "c7_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "c7_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00536,
+                    105.84500
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "c8_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "c8_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00583,
+                    105.84234
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "c9_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "c9_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00473,
+                    105.84507
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "D3_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "C4_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00454,
+                    105.84529
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "D35_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "D35_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00436,
+                    105.84496
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "D5_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "D5_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00434,
+                    105.84268
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "D6_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "D6_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00410,
+                    105.84498
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "D7_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "D7_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00401,
+                    105.84269
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "D8_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "D8_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00383,
+                    105.84413
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "D9_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "D9_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00402,
+                    105.84340
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "Ho_Tien",
+                "marker-symbol": "rail-metro",
+                "title": "Ho_Tien",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00426,
+                    105.84416
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "Thu_Vien_TQB",
+                "marker-symbol": "rail-metro",
+                "title": "Thu_Vien_TQB",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00437,
+                    105.84668
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "B1_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "B1_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00561,
+                    105.84758
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "B3_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "B3_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00643,
+                    105.84696
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "B5_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "B5_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00647,
+                    105.84620
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "B6_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "B6_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00602,
+                    105.84619
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "B7_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "B7_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00522,
+                    105.84613
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "B8_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "B8_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00606,
+                    105.84691
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "B9_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "B9_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00529,
+                    105.84754
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "B10_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "B10_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00655,
+                    105.84774
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "description": "B13_DHBKHN",
+                "marker-symbol": "rail-metro",
+                "title": "B13_DHBKHN",
+                "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
+                "lines": [
+                    "Orange"
+                ],
+                "address": "BKHN"
+            }
+        }
+    ]
+}

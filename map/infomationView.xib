@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="infomationView" customModule="map" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="432" height="351"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="BACH KHOA DUOC THANH LAP TU NHUNG NAM 60 CUA THE KI TRUOC" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="ifs-ky-0QK">
+                    <rect key="frame" x="7" y="75" width="418" height="153"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="153" id="5b7-8M-ATS"/>
+                        <constraint firstAttribute="width" constant="405" id="rl0-L3-NHU"/>
+                        <constraint firstAttribute="width" secondItem="ifs-ky-0QK" secondAttribute="height" multiplier="45:17" id="xY1-c3-uF5"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                </textView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="msw-Lk-Pcz">
+                    <rect key="frame" x="0.0" y="301" width="432" height="42"/>
+                    <color key="backgroundColor" red="1" green="0.16944356790000001" blue="0.083419701819999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="42" id="UfN-6m-2CI"/>
+                        <constraint firstAttribute="width" secondItem="msw-Lk-Pcz" secondAttribute="height" multiplier="72:7" id="gVz-On-niy"/>
+                    </constraints>
+                    <state key="normal">
+                        <attributedString key="attributedTitle">
+                            <fragment content="NAVIGATE TO LOCATION">
+                                <attributes>
+                                    <color key="NSColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <font key="NSFont" size="15" name="TimesNewRomanPS-BoldMT"/>
+                                </attributes>
+                            </fragment>
+                        </attributedString>
+                    </state>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fAK-nm-U8p">
+                    <rect key="frame" x="7" y="27" width="260" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="260" id="9P2-v4-rVl"/>
+                        <constraint firstAttribute="height" constant="40" id="ckm-BQ-OlF"/>
+                        <constraint firstAttribute="width" secondItem="fAK-nm-U8p" secondAttribute="height" multiplier="13:2" id="fUM-VZ-Az3"/>
+                    </constraints>
+                    <attributedString key="attributedText">
+                        <fragment content="ABOUT BHKN">
+                            <attributes>
+                                <font key="NSFont" size="18" name="TimesNewRomanPS-BoldMT"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                            </attributes>
+                        </fragment>
+                    </attributedString>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="msw-Lk-Pcz" secondAttribute="bottom" constant="8" id="LK7-0D-3l1"/>
+                <constraint firstItem="msw-Lk-Pcz" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="QRm-DP-w5t"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="ifs-ky-0QK" secondAttribute="trailing" constant="7" id="dkO-ma-Bbb"/>
+                <constraint firstItem="msw-Lk-Pcz" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="eDb-Q0-pXd"/>
+                <constraint firstItem="fAK-nm-U8p" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="27" id="iXS-4N-3Mc"/>
+                <constraint firstItem="ifs-ky-0QK" firstAttribute="top" secondItem="fAK-nm-U8p" secondAttribute="bottom" constant="8" id="tIR-f9-F4i"/>
+                <constraint firstItem="ifs-ky-0QK" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="7" id="vnl-bN-MdG"/>
+                <constraint firstItem="fAK-nm-U8p" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="7" id="wz4-oN-wkA"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="aboutLabel" destination="fAK-nm-U8p" id="CfX-sf-8r3"/>
+                <outlet property="btnNavigate" destination="msw-Lk-Pcz" id="I9Y-se-gfL"/>
+                <outlet property="descriptionTextView" destination="ifs-ky-0QK" id="Y7d-fI-CV4"/>
+            </connections>
+            <point key="canvasLocation" x="51.200000000000003" y="19.340329835082461"/>
+        </view>
+    </objects>
+</document>
